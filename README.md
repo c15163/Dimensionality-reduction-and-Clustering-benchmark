@@ -13,7 +13,7 @@ The project includes:
 
 This repository includes both:
 1. Full analysis report (PDF)
-2. A unified experiment script (`hw3.py`) that reproduces all figures and results
+2. A unified experiment script (`ML_dimension_reduction_and_clustering.py`) that reproduces all figures and results
 
 ---
 
@@ -101,7 +101,7 @@ pip install numpy pandas scikit-learn mlrose-hiive matplotlib
 Then run:
 
 ```bash
-python hw3.py
+python ML_dimension_reduction_and_clustering.py
 ```
 
 All figures will be saved automatically in the working directory.
