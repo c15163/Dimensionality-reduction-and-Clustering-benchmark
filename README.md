@@ -22,8 +22,8 @@ This repository includes both:
 ```
 project_root/
 │
-├── hw3.py                      # Unified experiment code (all parts)
-├── hji61_analysis.pdf          # Full project analysis and figures
+├── ML_dimension_reduction_and_clustering.py                      # Unified experiment code (all parts)
+├── dimension_reduction_and_clustering_report.pdf          # Full project analysis and figures
 └── README.md                   # Documentation (this file)
 ```
 
