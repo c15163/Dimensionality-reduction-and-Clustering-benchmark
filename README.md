@@ -119,4 +119,4 @@ All figures will be saved automatically in the working directory.
 ---
 
 ## Reference  
-See the project report (`hji61_analysis.pdf`) for detailed analysis, figures, and conclusions.
+See the project report (`dimension_reduction_and_clustering_report.pdf`) for detailed analysis, figures, and conclusions.
